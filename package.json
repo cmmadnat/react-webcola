@@ -24,9 +24,13 @@
     "react": "16.x"
   },
   "devDependencies": {
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.0.6",
     "nwb": "0.23.x",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "ts-loader": "3.5.0",
+    "typescript": "^2.9.2"
   },
   "author": "",
   "homepage": "",
